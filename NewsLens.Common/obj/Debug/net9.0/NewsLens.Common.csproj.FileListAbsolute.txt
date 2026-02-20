@@ -1,0 +1,13 @@
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/bin/Debug/net9.0/NewsLens.Common.deps.json
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/bin/Debug/net9.0/NewsLens.Common.dll
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/bin/Debug/net9.0/NewsLens.Common.pdb
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.csproj.AssemblyReference.cache
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.AssemblyInfoInputs.cache
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.AssemblyInfo.cs
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.csproj.CoreCompileInputs.cache
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.sourcelink.json
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.dll
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/refint/NewsLens.Common.dll
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/NewsLens.Common.pdb
+/Users/davidjohnsson/Development/dotnet projects/NewsLens/NewsLens.Common/obj/Debug/net9.0/ref/NewsLens.Common.dll
