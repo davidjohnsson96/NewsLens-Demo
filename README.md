@@ -1,4 +1,5 @@
-## Architecture Overview
+# Selected parts of the NewsLens backend for Demo purposes. 
+## NewsLens Architecture Overview
 
 ```mermaid
 flowchart TB
