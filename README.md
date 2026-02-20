@@ -1,8 +1,3 @@
-# NewsLens-Demo
-Parts of the NewsLens repo for demo purposes. Excluding tests. 
-
-System Architecture
-
 flowchart TB
 
     %% Column 1 - Fact Harvest
