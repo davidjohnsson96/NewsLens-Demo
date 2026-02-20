@@ -1,3 +1,6 @@
+## Architecture Overview
+
+```mermaid
 flowchart TB
 
     %% Column 1 - Fact Harvest
@@ -38,3 +41,4 @@ flowchart TB
     DB --> C1
     C3 --> DB
     B4 --> DB
+```
